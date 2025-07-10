@@ -1,3 +1,6 @@
+** mt :
+python -m venv tts-env
+
 1:  .\tts-env\Scripts\activate
 
 2: Cài lại TTS trong đúng môi trường
